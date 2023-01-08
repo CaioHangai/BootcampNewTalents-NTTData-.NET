@@ -12,7 +12,7 @@
 
 
 
-![ambientacao](https://github.com/CaioHangai/APICatalogoDeJogos/blob/master/Image/ambientacao.JPG)
+![ambientacao](https://github.com/CaioHangai/BootcampNewTalents-NTTData-.NET/blob/main/ApiCatalogoJogos/Image/ambientacao.JPG)
 
 ## Links uteis: :link: 
 

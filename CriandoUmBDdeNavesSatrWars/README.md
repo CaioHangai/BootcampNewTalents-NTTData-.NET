@@ -22,7 +22,7 @@
 
 
 
-![Diagrama BootCamp EVERIS](https://github.com/CaioHangai/BDGerenciadorEspaconavesStarWars/blob/master/BDSisGeNa/DERImg/DERSisGeNa.jpeg)
+![Diagrama BootCamp EVERIS](https://github.com/CaioHangai/BootcampNewTalents-NTTData-.NET/blob/main/CriandoUmBDdeNavesSatrWars/BDSisGeNa/DERImg/DERSisGeNa.jpeg)
 
 # 
 

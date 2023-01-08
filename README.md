@@ -55,7 +55,7 @@
 
 
 
-<img src="https://github.com/CaioHangai/desafio-gitgithub-bootcamp-DIO-everis/blob/master/primeiroDesafioGitGitHub/imagens/autorREADME.JPG" alt="autorREADME" style="zoom: 67%;" />
+<img src="https://github.com/CaioHangai/BootcampNewTalents-NTTData-.NET/blob/main/DESAFIO%20GIT%20HUB/primeiroDesafioGitGitHub/imagens/autorREADME.JPG" />
 
 ##### Contatos:
 
